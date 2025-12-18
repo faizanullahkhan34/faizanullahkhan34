@@ -130,5 +130,4 @@ Proven track record of delivering **enterprise-grade, high-performance platforms
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizanullahkhan34&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizanullahkhan34&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizanullahkhan34)
 
