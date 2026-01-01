@@ -1,45 +1,70 @@
-FAIZAN ULLAH KHAN
-Senior Software Engineer | MERN | Node.js | FastAPI | GCP | AI/LLM
-📍 India | 🌍 Open to Global/Remote | 📩 faizanullahkhan34@gmail.com
-LinkedIn: linkedin.com/in/faizan-ullah-khan-2a50b3170 | GitHub: YOUR_GITHUB_LINK
+<h1 align="center">👋 Hi, I'm Faizan Ullah Khan</h1>
+<h3 align="center">Senior Software Engineer | MERN | Node.js | FastAPI | GCP | AI/LLM</h3>
 
-SUMMARY
-Senior Software Engineer with 5+ years of experience designing scalable, cloud-native,
-and microservices systems. Specialized in MERN, Node.js, FastAPI, GCP, and LLM/AI
-integrations including LangChain, LangGraph & RAG. Worked on enterprise applications
-processing millions of events with high performance and reliability.
+<p align="center">
+🚀 Building scalable, cloud-native systems | 🤖 AI + Microservices | ☁️ GCP | 🔥 MERN Stack Expert  
+</p>
 
-CORE SKILLS
-Backend: Node.js, Express, FastAPI, REST, Microservices, WebSockets
-Frontend: React.js, Redux, Micro-Frontends
-Cloud/DevOps: Google Cloud Platform, Docker, CI/CD, BigQuery, Firebase
-LLM/AI: LangChain, LangGraph, RAG, Vector Databases (FAISS), Agents
-Databases: MongoDB, MySQL, Firebase
+---
 
-EXPERIENCE
-Senior Software Developer — TeamLease Digital (Client: Adobe) | Apr 2025 – Present
-• Automated marketing & campaign execution → reduced manual effort by 40–60%
-• Built microservices handling millions of email events per month on GCP
-• Designed LLM automation using LangChain, LangGraph, and RAG pipelines
-• Created FastAPI + MERN solutions for enterprise product environments
+## 🚀 About Me
+Senior Software Engineer with 5+ years of experience building **distributed systems**, **LLM-powered platforms**, and **enterprise-grade microservices** across product-based environments.
 
-Software Engineer — Appy Pie | Jan 2022 – Apr 2025
-• Developed microservices & micro-frontends for large-scale SaaS workloads
-• Implemented CI/CD and cloud-native deployments on GCP and Docker
-• Integrated AI automation modules & semantic search with LangChain & BigQuery
+- 🔥 MERN, Node.js, FastAPI, Cloud-Native Architecture
+- 🌍 Built systems serving **millions of events per month**
+- 🤖 LLM Integrations: **LangChain, LangGraph, RAG, Agents**
+- ☁️ Cloud Experience: **Google Cloud Platform, Firebase, BigQuery**
+- 💼 Worked with global teams including Adobe (enterprise scale)
 
-Software Engineer — NeoSOFT Technologies | May 2021 – Dec 2021
-• MERN and Laravel development for enterprise-grade applications
-• Backend REST APIs, Python FastAPI microservices, Firebase integrations
+---
 
-PROJECTS
-Legal Advisor AI — RAG-Based Legal System
-Tech: FastAPI, LangChain, FAISS, React.js
-• Delivered 60% faster search response & knowledge retrieval via FAISS embeddings
+## 🛠️ Tech Expertise
+**Backend & Architecture**
+`Node.js` `Express` `FastAPI` `Microservices` `REST` `WebSockets`
 
-Realtime Chat & A/V Communication System
-Tech: MERN, WebRTC, Socket.io
-• 200ms latency real-time chat & video calling; scalable infra
+**Frontend**
+`React.js` `Redux` `Micro-Frontends`
 
-EDUCATION
-B.Tech — Computer Science (or actual degree)
+**Cloud & DevOps**
+`GCP` `Docker` `CI/CD` `Firebase` `BigQuery`
+
+**AI / LLM**
+`LangChain` `LangGraph` `RAG` `FAISS` `Vector DBs` `Multi-Agent Systems`
+
+**Databases**
+`MongoDB` `MySQL` `Firebase`
+
+---
+
+## 🔥 Featured Work (Pin These Repos)
+| Project | Tech | Impact |
+|---------|------|---------|
+| **Legal Advisor AI (RAG System)** | FastAPI, RAG, FAISS, React | ⚖️ 60% faster legal query responses |
+| **Multi-Agent HR Automation** | LangGraph, Node.js, GCP | 🤖 Hiring & onboarding pipeline automation |
+| **Realtime Chat + A/V Calls** | MERN, WebRTC, Socket.io | 📞 200ms latency, scalable architecture |
+| **E-Commerce Microservices** | Node.js, Docker, MongoDB | 🛍 Distributed architecture, cloud-ready |
+
+_Add them as pinned repos on your GitHub homepage._
+
+---
+
+## 📈 Experience Highlights
+- 🟣 **Senior Software Developer – TeamLease Digital (Client: Adobe)**
+  - Automated marketing pipelines → **40–60% manual work reduced**
+  - Designed scalable services processing **millions of email events**
+  - Integrated LangChain, RAG, and workflow automations into production
+
+- 🟡 **Software Engineer – Appy Pie**
+  - Built microservices & micro-frontends for high-traffic systems
+  - Engineered CI/CD pipelines + cloud deployments on **GCP/Docker**
+
+---
+
+## 📫 Contact
+📩 Email: **faizanullahkhan34@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/faizan-ullah-khan-2a50b3170**  
+🌍 Open to: **Remote | Europe | Canada | Australia | MEA | Singapore | US (Contract)**  
+
+---
+
+### ⭐ If my work interests you, feel free to star a repo or connect!
