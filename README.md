@@ -63,7 +63,7 @@ _Add them as pinned repos on your GitHub homepage._
 ## 📫 Contact
 📩 Email: **faizanullahkhan34@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/faizan-ullah-khan-2a50b3170**  
-🌍 Open to: **Remote | Europe | Canada | Australia | Netherlands | Singapore | US | India | Germany **  
+🌍 Open to: **Remote | Europe | Canada | Australia | Netherlands | Singapore | US | India | Germany**  
 
 ---
 
