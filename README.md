@@ -1,69 +1,106 @@
 <h1 align="center">👋 Hi, I'm Faizan Ullah Khan</h1>
-<h3 align="center">Senior Software Engineer | MERN | Node.js | FastAPI | GCP | AI/LLM</h3>
+<h3 align="center">Senior Software Engineer | MERN | Node.js | FastAPI | GCP | AI/LLM (LangChain, RAG, Agents)</h3>
 
 <p align="center">
-🚀 Building scalable, cloud-native systems | 🤖 AI + Microservices | ☁️ GCP | 🔥 MERN Stack Expert  
+🚀 Building scalable cloud-native systems | 🤖 AI + LLM Integrations | ☁️ GCP | 🔥 MERN Expert  
 </p>
 
 ---
 
 ## 🚀 About Me
-Senior Software Engineer with 5+ years of experience building **distributed systems**, **LLM-powered platforms**, and **enterprise-grade microservices** across product-based environments.
+Senior Software Engineer with 5+ years of experience designing **distributed systems**, **LLM-powered automation platforms**, and **enterprise-grade microservices** used in high-volume production environments.
 
-- 🔥 MERN, Node.js, FastAPI, Cloud-Native Architecture
-- 🌍 Built systems serving **millions of events per month**
-- 🤖 LLM Integrations: **LangChain, LangGraph, RAG, Agents**
-- ☁️ Cloud Experience: **Google Cloud Platform, Firebase, BigQuery**
-- 💼 Worked with global teams including Adobe (enterprise scale)
+- 🔥 MERN, Node.js, FastAPI, AI/LLM (LangChain, LangGraph, RAG)
+- ☁️ Cloud-Native Systems on **GCP**, Docker, CI/CD
+- 📩 Large-scale email/marketing workloads — **millions of events per month**
+- 🧠 Automated decision workflows using multi-agent systems
 
 ---
 
 ## 🛠️ Tech Expertise
 **Backend & Architecture**
-`Node.js` `Express` `FastAPI` `Microservices` `REST` `WebSockets`
+`Node.js` `Express` `FastAPI` `Microservices` `WebSockets` `REST APIs`
 
 **Frontend**
 `React.js` `Redux` `Micro-Frontends`
 
 **Cloud & DevOps**
-`GCP` `Docker` `CI/CD` `Firebase` `BigQuery`
+`GCP` `Docker` `CI/CD` `BigQuery` `Firebase`
 
 **AI / LLM**
-`LangChain` `LangGraph` `RAG` `FAISS` `Vector DBs` `Multi-Agent Systems`
+`LangChain` `LangGraph` `RAG` `FAISS` `Vector DBs` `Agents`
 
 **Databases**
 `MongoDB` `MySQL` `Firebase`
 
 ---
 
-## 🔥 Featured Work (Pin These Repos)
-| Project | Tech | Impact |
-|---------|------|---------|
-| **Legal Advisor AI (RAG System)** | FastAPI, RAG, FAISS, React | ⚖️ 60% faster legal query responses |
-| **Multi-Agent HR Automation** | LangGraph, Node.js, GCP | 🤖 Hiring & onboarding pipeline automation |
-| **Realtime Chat + A/V Calls** | MERN, WebRTC, Socket.io | 📞 200ms latency, scalable architecture |
-| **E-Commerce Microservices** | Node.js, Docker, MongoDB | 🛍 Distributed architecture, cloud-ready |
+## 💼 Professional Experience
 
-_Add them as pinned repos on your GitHub homepage._
+### 🟣 Senior Software Developer — TeamLease Digital (Client: Adobe) | Noida, India  
+**Apr 2025 – Present | Growth Marketing Insights**
+**Tech:** MERN, Node.js, FastAPI, MongoDB, GCP, LangChain, LangGraph, RAG
+
+- Automated marketing & email campaign workflows → **40–60% manual work reduced**
+- Built scalable backend services (Node.js + FastAPI) for **high-volume campaign execution**
+- Developed React.js components for campaign configuration & analytics dashboards
+- Integrated **LLM automation using LangChain, LangGraph, and RAG**
+- Supported platforms executing **millions of email events/month**
+- Collaborated with Adobe’s product, marketing & data teams to deliver enterprise-scale solutions
+
+**Impact:** Improved campaign execution speed, reliability & accuracy through AI-powered automation.
 
 ---
 
-## 📈 Experience Highlights
-- 🟣 **Senior Software Developer – TeamLease Digital (Client: Adobe)**
-  - Automated marketing pipelines → **40–60% manual work reduced**
-  - Designed scalable services processing **millions of email events**
-  - Integrated LangChain, RAG, and workflow automations into production
+### 🟡 Software Engineer — Appy Pie | Noida, India  
+**Jan 2022 – Apr 2025**  
+**Tech:** React.js, Node.js, Firebase, GCP, BigQuery, MongoDB, Redux, MERN, LangChain, LangGraph
 
-- 🟡 **Software Engineer – Appy Pie**
-  - Built microservices & micro-frontends for high-traffic systems
-  - Engineered CI/CD pipelines + cloud deployments on **GCP/Docker**
+- Designed microservices supporting **high-traffic SaaS workloads**
+- Built backend services (Node.js + FastAPI) and MERN frontends end-to-end
+- Implemented **micro-frontend architecture** enabling modular deployments
+- CI/CD pipelines + cloud-native deployments on GCP & Docker
+- Integrated LLM automation with LangChain/LangGraph for intelligent decision flows
+- Contributed to architecture reviews & scalability improvements
+
+---
+
+### 🟠 Software Engineer — NeoSOFT Technologies | Mumbai, India  
+**May 2021 – Dec 2021**  
+**Tech:** MERN, Laravel, Node.js, MySQL, MongoDB, Firebase
+
+- Developed scalable full-stack applications using MERN & Laravel
+- Built REST APIs & FastAPI services following microservices principles
+- Implemented micro-frontends with React.js for modular feature releases
+- Collaborated with QA & product to deliver high-quality, production-grade builds
+
+---
+
+### 🔵 Full-Stack Web Developer — Synaps Technologies | Noida, India  
+**Jan 2020 – May 2021**  
+**Tech:** PHP, Laravel, MySQL, OpenCart, WordPress, MERN, Node.js
+
+- Built scalable web & e-commerce solutions with Laravel & MySQL
+- Custom WordPress/OpenCart themes, checkout, and order management flows
+- Developed REST APIs (Node.js + MongoDB) powering frontend applications
+- Integrated payment gateways, SMS APIs, Google APIs, and Firebase services
+
+---
+
+## 🔥 Featured Projects (Pin These Repos)
+| Project | Tech | Impact |
+|---------|------|---------|
+| **Legal Advisor AI (RAG System)** | FastAPI, LangChain, FAISS, React | ⚖️ 60% faster legal query response |
+| **Multi-Agent HR Automation** | LangGraph, Node.js, GCP | 🤖 AI-driven hiring workflow automation |
+| **Realtime Chat + A/V Calling** | MERN, WebRTC, Socket.io | 📞 200ms latency, production scalable |
+| **E-Commerce Microservices** | Node.js, Docker, MongoDB | 🛍 Cloud-ready distributed system |
 
 ---
 
 ## 📫 Contact
 📩 Email: **faizanullahkhan34@gmail.com**  
 🔗 LinkedIn: **linkedin.com/in/faizan-ullah-khan-2a50b3170**  
-🌍 Open to: **Remote | Europe | Canada | Australia | Netherlands | Singapore | US | India | Germany**  
+🌍 Open To: **Remote | Europe | Canada | Australia | Netherlands | Singapore | US | India | Germany | India**  
 
 ---
 
