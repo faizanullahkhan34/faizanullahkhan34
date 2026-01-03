@@ -93,7 +93,6 @@ Senior Software Engineer with 5+ years of experience designing **distributed sys
 | **Legal Advisor AI (RAG System)** | FastAPI, LangChain, FAISS, React | ⚖️ 60% faster legal query response |
 | **Multi-Agent HR Automation** | LangGraph, Node.js, GCP | 🤖 AI-driven hiring workflow automation |
 | **Realtime Chat + A/V Calling** | MERN, WebRTC, Socket.io | 📞 200ms latency, production scalable |
-| **E-Commerce Microservices** | Node.js, Docker, MongoDB | 🛍 Cloud-ready distributed system |
 
 ---
 
